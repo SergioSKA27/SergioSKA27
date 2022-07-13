@@ -428,12 +428,37 @@ class ColorSelector
 end
 
 
+class Canvas
+    include Figures
+    attr_accessor :shapeA, :shapeB,:shapeincanvas
+    attr_accessor :key
 
+    ##
+    # It creates a black square with a white square inside it
+    #
+    # Args:
+    #   pos: the position of the square
+    #   size: the size of the square
+    #   key: the key that will be pressed to activate the button
+    #   z: the z-index of the shape
+    #   shape: the shape that is in the canvas
+    def initialize(pos,size,key,z,shape)
+        @shapeA =draw_square(pos,size,'black',z)
+        @shapeB = draw_square(pos,size-5,'white',z+1)
+        if shape != nil
+        @shapeincanvas = shape.dup
+        else
+            @shapeincanvas = nil
+        end
+        @key = key
+    end
+end
 
 
 
 
 c = ColorSelector.new([40,50], 250,'#9CCC65',10,'-colorselctor-')
+can = Canvas.new([400,50],200,'canvas',10,nil)
 #a = TextBox.new([80,50],250,50,'blue',10,5,'-txt1-')
 
 =begin
