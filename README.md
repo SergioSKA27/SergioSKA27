@@ -1,6 +1,7 @@
 # Hi, I'm Sergio Demis Lopez Martinez 👋
 
-## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
+---
+
 <p align="center">
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="120" height="90"/>
 </p>
@@ -100,7 +101,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 ---
 
 <p align="center"> 
-  <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
+  <a href="https://github.com/SergioSKA27/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SergioSKA27 streak" src="https://github-readme-stats.vercel.app/api?username=SergioSKA27&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
 <br/><br/>
   <a href="https://github.com/SergioSKA27/github-readme-stats"><img alt="SergioSKA27 Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=SergioSKA27&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
@@ -109,3 +110,5 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
   
   </p>
 
+---
+## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
