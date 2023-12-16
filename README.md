@@ -57,11 +57,10 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  width="50" height="50"/> </a>
+    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/dotty/80/fa314a/pug.png" alt="pug" width="40" height="40"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgresql" width="50" height="50"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/dotty/80/fa314a/pug.png" alt="pug" width="40" height="40"/> </a>  
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>   
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
@@ -71,6 +70,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://azure.microsoft.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png"  width="50" height="50"/> </a>
     <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png"  width="50" height="50"/> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"  width="50" height="50"/> </a>
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>  
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"  width="50" height="50"/> </a>
     <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"  width="50" height="50"/> </a>
 </p>
@@ -104,7 +104,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - Spanish (Native).
 - English (Fluent).
 
-## Stats
+## Stats 📊
 <p align="center"> 
   <a href="https://github.com/SergioSKA27/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SergioSKA27 streak" src="https://github-readme-stats.vercel.app/api?username=SergioSKA27&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
