@@ -74,5 +74,13 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&size_weight=0.5&count_weight=0.5)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> 
+  <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
+     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SergioSKA27 streak" src="https://github-readme-stats.vercel.app/api?username=SergioSKA27&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
+<br/><br/>
+  <a href="https://github.com/SergioSKA27/github-readme-stats"><img alt="SergioSKA27 Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=SergioSKA27&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=99FF89&currStreakNum=99FF89" /></a>
+<br/><br/>
+  <a href="https://github.com/SergioSKA27/github-readme-stats"><img alt="SergioSKA27 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
+  
+  </p>
 
