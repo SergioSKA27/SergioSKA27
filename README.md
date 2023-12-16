@@ -68,9 +68,9 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
     <a href="https://www.tableau.com" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2022/04/Tableau-Logo.png"  width="70" height="50"/> </a>
     <a href="https://azure.microsoft.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_azure_logo_icon_170956.png"  width="50" height="50"/> </a>
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
     <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png"  width="50" height="50"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"  width="50" height="50"/> </a>
-    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>  
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"  width="50" height="50"/> </a> 
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"  width="50" height="50"/> </a>
     <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png"  width="50" height="50"/> </a>
 </p>
