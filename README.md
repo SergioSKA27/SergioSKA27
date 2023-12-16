@@ -64,4 +64,4 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif" width="100" height="50"/>
+<img src="https://www.zirous.com/wp-content/uploads/2019/11/Machine-Learning-Gif.gif" width="100" height="100"/>
