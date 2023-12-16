@@ -1,7 +1,5 @@
 # Hi, I'm Sergio Demis Lopez Martinez 👋
 
----
-
 <p align="center">
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="120" height="90"/>
 </p>
