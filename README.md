@@ -1,6 +1,6 @@
 # Hi, I'm Sergio Demis Lopez Martinez 👋
 
-## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [GitHub](https://github.com/SergioSKA27)
+## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
 ---
 
@@ -59,3 +59,4 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&size_weight=0.5&count_weight=0.5)
