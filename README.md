@@ -2,7 +2,7 @@
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
-![lottie](https://drive.google.com/file/d/1KG-iIZ7YONua2yH5rW9GJySEvqZo6Jib/view?usp=sharing)
+![gif](https://art.pixilart.com/sr2712ab0b35ecd.gif)
 
 ---
 
