@@ -3,6 +3,7 @@
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
 <iframe src="https://lottie.host/embed/f21e9194-4b3e-4e9a-b449-91e47f217851/D8pwuRKU5g.json"></iframe>
+
 ---
 
 ## Professional Summary
