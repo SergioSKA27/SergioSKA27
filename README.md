@@ -65,6 +65,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
+    <a href="https://www.tableau.com" target="_blank"> <img src="https://assets.stickpng.com/images/58482cb3cef1014c0b5e4a47.png"/> </a>
 </p>
 
 
