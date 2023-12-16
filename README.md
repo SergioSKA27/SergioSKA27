@@ -106,7 +106,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
   <a href="https://github.com/SergioSKA27/github-readme-stats"><img alt="SergioSKA27 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&theme=material-palenight&hide=Jupyter&layout=compact" /></a>
   
   </p>
-
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ---
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
