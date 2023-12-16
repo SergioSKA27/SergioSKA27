@@ -1,4 +1,4 @@
-# Hola, Soy Sergio Demis Lopez Martinez 👋
+# Hi, I'm Sergio Demis Lopez Martinez 👋
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [GitHub](https://github.com/SergioSKA27)
 
