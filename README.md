@@ -47,7 +47,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://cplusplus.com/?msclkid=9675ffb1b00711ec8291bc5e9315e7bf" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" width="40"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png"  width="50" height="50"/> </a>
+   <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/980/847/png-transparent-ruby-on-rails-logo-programming-language-rubygems-ruby-angle-design-ruby.png"  width="50" height="50"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
