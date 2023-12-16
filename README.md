@@ -2,8 +2,8 @@
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
-![gif](https://art.pixilart.com/sr2712ab0b35ecd.gif)
 
+<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="100" height="50" />
 ---
 
 ## Professional Summary
