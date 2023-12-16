@@ -1,9 +1,9 @@
 # Hi, I'm Sergio Demis Lopez Martinez 👋
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
-
+<p align="center">
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="120" height="90"/>
-
+</p>
 
 Pleased to meet you! I'm a passionate student of Applied Mathematics and Computer Science, currently pursuing my bachelor's degree at the National Autonomous University of Mexico, FES Acatlán. My academic journey revolves around gaining solid theoretical knowledge and technical programming skills.
 
@@ -42,6 +42,32 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - **Databases:** SQL (PostgreSQL), NoSQL (MongoDB).
 - **Other Tools:** Git, Jupyter Notebook, Power BI, Tableau, Azure.
 
+
+<p align="left"> 
+    <a href="https://cplusplus.com/?msclkid=9675ffb1b00711ec8291bc5e9315e7bf" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+	<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png" width="40"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://pugjs.org" target="_blank"> <img src="https://img.icons8.com/dotty/80/fa314a/pug.png" alt="pug" width="40" height="40"/> </a>  
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+    <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
+    <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
+</p>
+
 ---
 
 ## Projects
@@ -72,8 +98,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - English (Fluent).
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&size_weight=0.5&count_weight=0.5)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center"> 
   <a href="https://github.com/Sayan-Maity/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SergioSKA27 streak" src="https://github-readme-stats.vercel.app/api?username=SergioSKA27&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
