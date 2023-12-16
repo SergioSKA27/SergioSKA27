@@ -104,7 +104,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - Spanish (Native).
 - English (Fluent).
 
-
+## Stats
 <p align="center"> 
   <a href="https://github.com/SergioSKA27/github-readme-streak-stats">
      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SergioSKA27 streak" src="https://github-readme-stats.vercel.app/api?username=SergioSKA27&theme=material-palenight&text_color=99FF89&icon_color=C492E3&count_private=true&hide=contribs&show_icons=true"/></a>
