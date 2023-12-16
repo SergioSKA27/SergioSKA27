@@ -15,12 +15,12 @@ Outside academia, I've shared my enthusiasm for mathematics as a seminar present
 I'm excited about the opportunities within the realms of applied mathematics and computer science and eager to continue exploring and growing in these fields. Connect with me on LinkedIn or check out my projects on GitHub to learn more about my journey and contributions!
 
 
----
+
 
 ## Professional Summary
 Passionate student of Applied Mathematics and Computer Science with a strong theoretical background and technical skills in programming. Eager to apply these skills in data analysis and software development to tackle complex challenges and contribute to innovative projects.
 
----
+
 
 ## Education
 ### Bachelor's in Applied Mathematics and Computer Science
@@ -30,7 +30,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 
 - Relevant Courses: Data Structures, Algorithms, Probability Theory, Linear Algebra.
 
----
+
 
 ## Technical Skills
 - **Programming Languages:** Python, Java, C++, Rust, Scala.
@@ -67,13 +67,13 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
     <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
 </p>
 
----
+
 
 ## Projects
 - **Educational Website Development for University Club**
   Led the development of an educational website for a university club using technologies such as HTML, CSS, JavaScript, and Bootstrap. Created an interactive portal providing educational resources to fellow students, enhancing information accessibility, and fostering collaboration within the club.
 
----
+
 
 ## Extracurricular Activities
 - **Mathematics Seminar Presenter**
@@ -82,7 +82,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - **University Workshop Facilitator**
   Conducted workshops on programming and mathematics topics at the university, enhancing the skills and knowledge of peers.
 
----
+
 
 ## Soft Skills
 - Strong analytical and problem-solving skills.
@@ -90,13 +90,12 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - Quick learner with a passion for continuous improvement.
 - Team player with experience collaborating on projects.
 
----
+
 
 ## Languages
 - Spanish (Native).
 - English (Fluent).
 
----
 
 <p align="center"> 
   <a href="https://github.com/SergioSKA27/github-readme-streak-stats">
@@ -109,4 +108,5 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
   </p>
 
 ---
+
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
