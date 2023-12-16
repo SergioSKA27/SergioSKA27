@@ -2,7 +2,8 @@
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
-![lottie](https://lottie.host/embed/f84e07c5-4e59-4cfa-a3c3-232b10a5f1dd/HF0SZzO42Z.json)
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<dotlottie-player src="https://lottie.host/f21e9194-4b3e-4e9a-b449-91e47f217851/D8pwuRKU5g.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 ---
 
 ## Professional Summary
@@ -59,5 +60,6 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
 - English (Fluent).
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSKA27&size_weight=0.5&count_weight=0.5)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioSKA27)](https://github.com/anuraghazra/github-readme-stats)
+
