@@ -2,8 +2,7 @@
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
 
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-<dotlottie-player src="https://lottie.host/f21e9194-4b3e-4e9a-b449-91e47f217851/D8pwuRKU5g.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+<iframe src="https://lottie.host/embed/f21e9194-4b3e-4e9a-b449-91e47f217851/D8pwuRKU5g.json"></iframe>
 ---
 
 ## Professional Summary
