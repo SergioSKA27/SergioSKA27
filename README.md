@@ -1,6 +1,7 @@
 # Hi, I'm Sergio Demis Lopez Martinez 👋
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
+
 <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="90" height="70"/>
 
 ---
