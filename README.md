@@ -107,6 +107,7 @@ Passionate student of Applied Mathematics and Computer Science with a strong the
   
   </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ---
 
 ## [LinkedIn](www.linkedin.com/in/sergio-demis-lópez-martínez-a765971b9) | [Portafolio](https://sergioska27.github.io/)
